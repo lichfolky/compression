@@ -1,3 +1,5 @@
+# Algoritmi sui fondamenti della compressione dati
+
 Programmi di supporto per lezione sui fondamenti della compressione dati.
 Per eseguirli è necessario aver installato python 3.*.
 
