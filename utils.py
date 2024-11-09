@@ -19,6 +19,8 @@ class Tree:
             return "{" + str(self.freq) + "}"
 
 
+# codice_corrente accumula il codice corrente
+# codici accumula tutti i codici trovati
 def genera_codifica_huffman(nodo, codice_corrente="", codici={}):
     if nodo is None:
         return
